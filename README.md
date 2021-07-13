@@ -1,7 +1,9 @@
 # typed-ember-playground
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Fiddling around with Ember+Typescript!
+This repo covers Routes, Components, Services, Controller and Helper written in Typescript.
+
+The conent is strongley inspired by @yc-shawn 's YouTube tutorial on [ember-with typescript](https://www.youtube.com/watch?v=IfevTbyxteU).
 
 ## Prerequisites
 
@@ -10,7 +12,6 @@ You will need the following things properly installed on your computer.
 * [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/) (with npm)
 * [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
 
 ## Installation
 
