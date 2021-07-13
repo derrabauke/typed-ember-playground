@@ -1,7 +1,12 @@
-{{page-title "TypedEmberPlayground"}}
-
-{{!-- The following component displays Ember's default welcome message. --}}
-<WelcomePage />
-{{!-- Feel free to remove this! --}}
-
+<Welcome @name="Falk"/>
+Available routes:
+<ul>
+  <li>
+    <LinkTo @route="products">Products</LinkTo>
+  </li>
+  <li>
+    <LinkTo @route="counting">Counter</LinkTo>
+  </li>
+</ul>
+------------------
 {{outlet}}
